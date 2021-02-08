@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: All-Inside
-description: <font size="5"> Detection and Estimation of Any Type of Break/Change-Point in One Code only</font> 
+description: <font size="5"> Detection and Estimation of Any Type of Break/Change-Point in One Code</font> 
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -15,10 +15,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  
-  <!doctype>
-<html>
-  <head>
-    <title>{{ page.title }}</title>
-  </head>
-</html>
