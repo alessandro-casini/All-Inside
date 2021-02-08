@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 title: All-Inside
 description: <font size="5"> Detection and Estimation of Any Type of Change-Point in One Code</font> 
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Body.md
+  - README.md
