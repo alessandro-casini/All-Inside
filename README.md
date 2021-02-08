@@ -4,6 +4,6 @@ Change-point methods are useful for detecting parameter instabilities or changes
 
 ## Software available in Matlab, R and Stata
 
-* [Matlab Package](https://github.com/alessandro-casini/Change-Point_All-Inside.github.io/blob/main/All-Inside_Matlab.rar).
+* [Matlab Package](https://github.com/alessandro-casini/Change-Point_All-Inside.github.io/blob/main/All-Inside_Matlab.rar)
 * [R Package](https://babeljs.io/): The Javascript compiler. It's used implicitly by Parcel. Already contains a configuration for [React](https://reactjs.org/).
 * [Stata Package](https://sass-lang.com/): The CSS pre-compiler.
