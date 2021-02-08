@@ -1,6 +1,6 @@
 ## Introduction
 
-Change-point methods are useful for detecting parameter instabilities or changes in the moments of the data. The package provides tools for detecting abrupt (i.e., breaks) or smooth change-points in any of the followings: mean, variance, autocovariance and autocorrelation. The methods are based on frequency domain statistics. The package implements the methods in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf).
+Change-point methods are useful for detecting parameter instabilities or changes in the moments of the data. The package provides tools for detecting abrupt (i.e., breaks) or smooth change-points in any of the followings: mean, variance, autocovariance and autocorrelation. The methods are based on frequency domain statistics. The package implements the methods in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf), "Change-Point Analysis of Time Series with Evolutionary Spectra".
 
 ## Software available in Matlab, R and Stata
 
@@ -14,3 +14,8 @@ Change-point methods are useful for detecting parameter instabilities or changes
 * [Leopoldo Catania](https://pure.au.dk/portal/en/persons/id(5d29f2ff-3942-4a3d-a74d-006b55ae3836).html), Aarhus University.
 * [Stefano Grassi](https://economia.uniroma2.it/faculty/412/grassi-stefano), University of Rome Tor Vergata.
 * [Pierre Perron](http://blogs.bu.edu/perron/), Boston University.
+
+## Background Papers
+* Belotti, F., A. Casini, L. Catania, S. Grassi and P. Perron, "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings".
+* Casini, A. (2019), "Improved Methods for Statistical Inference in Various Type of Parameter Variation".
+* Casini, A. and P. Perron (2021), "Change-Point Analysis of Time Series with Evolutionary Spectra".
