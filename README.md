@@ -5,8 +5,8 @@ Change-point methods are useful for detecting parameter instabilities or changes
 ## Software available in Matlab, R and Stata
 
 * [Matlab Package](https://github.com/alessandro-casini/Change-Point_All-Inside.github.io/blob/main/All-Inside_Matlab.rar)
-* [R Package](https://babeljs.io/)
-* [Stata Package](https://sass-lang.com/)
+* R Package (to be uploaded later)
+* Stata Package (to be uploaded later)
 
 ## Contributors
 * [Federico Belotti](https://economia.uniroma2.it/faculty/333/belotti-federico), University of Rome Tor Vergata.
