@@ -15,3 +15,10 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  
+  <!doctype>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+</html>
