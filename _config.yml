@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: All-Inside
 description: <font size="5"> Detection and Estimation of Any Type of Break/Change-Point in One Code</font> 
+baseURL: "https://Change-Point_All-Inside.github.io"
 plugins:
   - jekyll-relative-links
 relative_links:
