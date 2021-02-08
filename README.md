@@ -22,3 +22,10 @@ Change-point methods are useful for detecting parameter instabilities or changes
 
 ## Maintaner and Correspondence
 * [Alessandro Casini](https://alessandro-casini.com), University of Rome Tor Vergata.
+
+<!doctype>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+</html>
