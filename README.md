@@ -1,5 +1,5 @@
 <head>
-    <link rel="shortcut icon" type="image/png" href="Logo2.png">
+    <link rel="shortcut icon" type="image/jpg" href="Logo2.jpg">
   </head>
 
 ## Introduction
