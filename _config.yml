@@ -3,11 +3,6 @@ title: All-Inside
 description: <font size="5"> Detection and Estimation of Any Type of Break/Change-Point in One Code</font> 
 baseURL: "https://Change-Point_All-Inside.github.io"
 
-module:
-  mounts:
-    - source: Logo2.JPG
-      target: Logo2.JPG
-
 
 plugins:
   - jekyll-relative-links
