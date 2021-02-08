@@ -16,6 +16,6 @@ Change-point methods are useful for detecting parameter instabilities or changes
 * [Pierre Perron](http://blogs.bu.edu/perron/), Boston University.
 
 ## Background Papers
-* Belotti, F., A. Casini, L. Catania, S. Grassi and P. Perron, "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings". arXiv Preprint arXiv 
+* Belotti, F., A. Casini, L. Catania, S. Grassi and P. Perron, "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings". arXiv preprint arXiv 
 * Casini, A. (2019), ["Improved Methods for Statistical Inference in Various Type of Parameter Variation"](https://open.bu.edu/handle/2144/38750). Ph.D Dissertation, Boston University.
-* Casini, A. and P. Perron (2021), "Change-Point Analysis of Time Series with Evolutionary Spectra". arXiv Preprint arXiv 
+* Casini, A. and P. Perron (2021), "Change-Point Analysis of Time Series with Evolutionary Spectra". arXiv preprint arXiv 
