@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Change-point methods are useful for detecting parameter instabilities or changes in the moments of the data. The package provides tools for detecting abrupt (i.e., breaks) or smooth change-points in any of the followings: mean, variance, autocovariance and autocorrelation. The methods are based on frequency domain statistics as developed in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf), "Change-Point Analysis of Time Series with Evolutionary Spectra".
+Change-point methods are useful for detecting parameter instabilities or changes in the moments of the data. The package provides tools for detecting abrupt (i.e., breaks) or smooth change-points in any of the followings: mean, variance, autocovariance and autocorrelation. The methods are based on frequency domain statistics as developed in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf), "Change-Point Analysis of Time Series with Evolutionary Spectra". Also useful for choice of subsamples for regression analysis.
 
 ## Software available in Matlab, R and Stata
 
@@ -21,7 +21,8 @@ Change-point methods are useful for detecting parameter instabilities or changes
 
 ## Background Papers
 * Belotti, F., A. Casini, L. Catania, S. Grassi and P. Perron, "Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings". arXiv preprint arXiv 
-* Casini, A. (2019), ["Improved Methods for Statistical Inference in Various Type of Parameter Variation"](https://open.bu.edu/handle/2144/38750). Ph.D Dissertation, Boston University.
+* Casini, A. (2019), ["Improved Methods for Statistical Inference in the Context Various Type of Parameter Variation"](https://open.bu.edu/handle/2144/38750). Ph.D Dissertation, Boston University.
+* Casini, A. (2021), ["Theory of Evolutionary Spectra for Heteroskedasticity and Autocorrelation Robust Inference in Possibly Misspecified and Nonstationary Models"](https://alessandro-casini.com/research/). arXiv preprint arXiv.
 * Casini, A. and P. Perron (2021), "Change-Point Analysis of Time Series with Evolutionary Spectra". arXiv preprint arXiv 
 
 ## Maintaner and Correspondence
