@@ -11,7 +11,7 @@ Many change-point methods along with corresponding codes have been developed in 
 The methods are based on frequency domain statistics as developed in [Casini and Perron (2021)](https://alessandro-casini.com/wp-content/uploads/2021/03/CASINI_PERRON_Change-Point_Spectrum_SLS.pdf), "Change-Point Analysis of Time Series with Evolutionary Spectra". The methods are also useful for the choice of subsamples for regression analyses.
 
 ## Non-Technical Summary for Empirical Research
-In preparation.
+[Click here.](https://github.com/alessandro-casini/All-Inside/blob/main/CASINI_PERRON_All-Inside_Non-Technical.pdf)
 
 ## Software available in Matlab, R and Stata
 
